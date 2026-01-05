@@ -430,6 +430,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.tomlecrets.toml
 
-ProtMamba_ssm/
 ProtMamba-Long-foundation/
 ProtMamba_model-weights.zip
